@@ -1,5 +1,5 @@
 # Earthquakes
-An applet I worked on while doing a **`Coursera`**'s Java course `Object Oriented Programming in Java`**  in 2015. 
+An applet I worked on while doing a **`Coursera`**'s Java course **`Object Oriented Programming in Java`**  in 2015. 
  (about the course: https://www.coursera.org/learn/object-oriented-java#)
 (certificate of completion: https://www.coursera.org/account/accomplishments/records/SLS3H4RK8N5U)
 
@@ -9,4 +9,5 @@ The skeleten of the app was written by Coursera. I had to implement the city, la
 
 Part of the assignement was to come up with an extension of my own. I added a method, which showed the earthquake which was the closest to a clicked city marker. ( EarthquakeCityMap.quakeNearCustomLocation() )
 
-I know - the code is untidy. :-)# Earthquakes
+I know - the code is untidy. :-)
+
